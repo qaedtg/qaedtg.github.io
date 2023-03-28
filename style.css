@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(127, 128, 126);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+h1 {
+    font-family: 'Rubik Iso', cursive;
+}
+
+body {
+    font-family: 'Barlow', sans-serif;
+}
+
+head{
+    text-align: center;
+}
+
+
+nav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #111;
+  }
+
+  .imagen{
+    text-align: center;
+  }
+  
+  img {
+    float: right;
+  }
+  
+.contenedor{
+  float: none;
+}
+
